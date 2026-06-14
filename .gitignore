@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.cache/
+*.csv
+*.json
+imdb_posters.py
+test.py
