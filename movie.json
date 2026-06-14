@@ -1,0 +1,1026 @@
+{
+  "id": "27331527",
+  "imdb_id": "27331527",
+  "imdbId": "tt27331527",
+  "title": "Man on Fire",
+  "title_localized": "Man on Fire",
+  "title_akas": [
+    "Гнів"
+  ],
+  "kind": "tvSeries",
+  "url": "https://www.imdb.com/title/tt27331527/",
+  "cover_url": "https://m.media-amazon.com/images/M/MV5BZjFlMTMyZTAtY2NiZS00NzdjLWEwZTUtNDJjYjI4ZmU4NTBiXkEyXkFqcGc@._V1_.jpg",
+  "plot": "Follows John Creasy, a wounded former mercenary on a quest to get revenge for the loss of his only companion while defending the daughter of his dead colleague from the forces that tore her family apart.",
+  "release_date": "2026-04-30",
+  "languages": [
+    "en"
+  ],
+  "languages_text": [
+    "English"
+  ],
+  "certificates": {
+    "AR": [
+      "Argentina",
+      "16 "
+    ],
+    "AU": [
+      "Australia",
+      "MA15+ "
+    ],
+    "BE": [
+      "Belgium",
+      "16 "
+    ],
+    "CN": [
+      "China",
+      "(Banned) "
+    ],
+    "DE": [
+      "Germany",
+      "16 "
+    ],
+    "IS": [
+      "Iceland",
+      "16 "
+    ],
+    "IN": [
+      "India",
+      "A "
+    ],
+    "ID": [
+      "Indonesia",
+      "D "
+    ],
+    "IR": [
+      "Iran",
+      "(Banned) "
+    ],
+    "IE": [
+      "Ireland",
+      "15 "
+    ],
+    "LU": [
+      "Luxembourg",
+      "16 "
+    ],
+    "MT": [
+      "Malta",
+      "15 "
+    ],
+    "NL": [
+      "Netherlands",
+      "16 "
+    ],
+    "NZ": [
+      "New Zealand",
+      "R16 "
+    ],
+    "SG": [
+      "Singapore",
+      "R21 "
+    ],
+    "KR": [
+      "South Korea",
+      "19 "
+    ],
+    "ES": [
+      "Spain",
+      "16 "
+    ],
+    "TR": [
+      "Turkey",
+      "18+ "
+    ],
+    "GB": [
+      "United Kingdom",
+      "15 "
+    ],
+    "US": [
+      "United States",
+      "TV-MA "
+    ]
+  },
+  "mpaa": "",
+  "directors": [],
+  "stars": [
+    {
+      "id": "5584344",
+      "imdb_id": "5584344",
+      "imdbId": "nm5584344",
+      "name": "Yahya Abdul-Mateen II",
+      "url": "https://www.imdb.com/name/nm5584344",
+      "job": "Cast"
+    },
+    {
+      "id": "11307049",
+      "imdb_id": "11307049",
+      "imdbId": "nm11307049",
+      "name": "Billie Boullet",
+      "url": "https://www.imdb.com/name/nm11307049",
+      "job": "Cast"
+    },
+    {
+      "id": "1058940",
+      "imdb_id": "1058940",
+      "imdbId": "nm1058940",
+      "name": "Scoot McNairy",
+      "url": "https://www.imdb.com/name/nm1058940",
+      "job": "Cast"
+    }
+  ],
+  "year": 2026,
+  "year_end": null,
+  "duration": 50,
+  "country_codes": [
+    "US"
+  ],
+  "countries": [
+    "United States"
+  ],
+  "rating": 6.7,
+  "metacritic_rating": null,
+  "votes": 11335,
+  "awards": {
+    "wins": 0,
+    "nominations": 0,
+    "prestigious_award": null
+  },
+  "trailers": [
+    "https://www.imdb.com/video/vi2485832473",
+    "https://www.imdb.com/video/vi2099759897"
+  ],
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "interests": [
+    "Gangster",
+    "One-Person Army Action",
+    "Psychological Drama",
+    "Psychological Thriller",
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "worldwide_gross": null,
+  "production_budget": null,
+  "storyline_keywords": [
+    "based on film",
+    "mafia",
+    "daughter",
+    "kidnapping",
+    "bodyguard"
+  ],
+  "filming_locations": [
+    "Rio de Janeiro, Brazil"
+  ],
+  "sound_mixes": [
+    "Dolby Digital"
+  ],
+  "processes": [
+    "Digital Intermediate"
+  ],
+  "printed_formats": [
+    "Video"
+  ],
+  "negative_formats": [
+    "Codex"
+  ],
+  "laboratories": [],
+  "colorations": [
+    "Color"
+  ],
+  "cameras": [
+    "Arri Alexa"
+  ],
+  "aspect_ratios": [
+    [
+      "2.39 : 1",
+      ""
+    ]
+  ],
+  "summaries": [
+    "John Creasy. Once a high-functioning and skilled Special Forces Mercenary, known for surviving even the most desolate of situations, Creasy is now plagued with intense PTSD. Determined to overcome his personal demons, he sets out on a path to redemption. But, before he can adjust to this new life, he finds himself back in the fire, fighting harder than ever."
+  ],
+  "synopses": [],
+  "production": [
+    "Chapter Eleven",
+    "Chernin Entertainment",
+    "New Regency Productions"
+  ],
+  "categories": {
+    "cast": [
+      {
+        "id": "5584344",
+        "imdb_id": "5584344",
+        "imdbId": "nm5584344",
+        "name": "Yahya Abdul-Mateen II",
+        "url": "https://www.imdb.com/name/nm5584344",
+        "job": "Cast",
+        "characters": [
+          "John Creasy"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BMWFhMWQ3OTYtMjY1Ny00YzA4LWI3YjYtM2VkYjljOTA3ZTI1XkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "11307049",
+        "imdb_id": "11307049",
+        "imdbId": "nm11307049",
+        "name": "Billie Boullet",
+        "url": "https://www.imdb.com/name/nm11307049",
+        "job": "Cast",
+        "characters": [
+          "Poe Rayburn"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BYWI2NzE0YmQtYjA5YS00MzdmLThhNzQtYmY4ZTRjMjlkNjkwXkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "1058940",
+        "imdb_id": "1058940",
+        "imdbId": "nm1058940",
+        "name": "Scoot McNairy",
+        "url": "https://www.imdb.com/name/nm1058940",
+        "job": "Cast",
+        "characters": [
+          "Henry Tappen"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BMDQ0ZjgzZDMtOTk2Ni00YTg2LThmMDQtNWIxZjU4ZDRkZjM4XkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "0103797",
+        "imdb_id": "0103797",
+        "imdbId": "nm0103797",
+        "name": "Alice Braga",
+        "url": "https://www.imdb.com/name/nm0103797",
+        "job": "Cast",
+        "characters": [
+          "Valeria Melo"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BMWUwZmQ2MDktNThkOS00YjI1LWJmZjktNDgyNzdiNWE3OWQxXkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "10085552",
+        "imdb_id": "10085552",
+        "imdbId": "nm10085552",
+        "name": "Pâmela Germano",
+        "url": "https://www.imdb.com/name/nm10085552",
+        "job": "Cast",
+        "characters": [
+          "Marina Melo"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "6203018",
+        "imdb_id": "6203018",
+        "imdbId": "nm6203018",
+        "name": "Thomás Aquino",
+        "url": "https://www.imdb.com/name/nm6203018",
+        "job": "Cast",
+        "characters": [
+          "Prado Soares"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BNDdkZmI4NzUtZTJlYS00ZDk2LWIwYjUtZjFjZDRiNmM4NDVlXkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "5748923",
+        "imdb_id": "5748923",
+        "imdbId": "nm5748923",
+        "name": "Billy Blanco Jr.",
+        "url": "https://www.imdb.com/name/nm5748923",
+        "job": "Cast",
+        "characters": [
+          "João Carmo"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BNDBmODE4ODktNjVkMi00YmU1LThhZjMtYmU0YmE5YjA5MTY4XkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "3237161",
+        "imdb_id": "3237161",
+        "imdbId": "nm3237161",
+        "name": "Ravel Cabral",
+        "url": "https://www.imdb.com/name/nm3237161",
+        "job": "Cast",
+        "characters": [
+          "Emanuel Ferraz"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "15124656",
+        "imdb_id": "15124656",
+        "imdbId": "nm15124656",
+        "name": "Iago Xavier",
+        "url": "https://www.imdb.com/name/nm15124656",
+        "job": "Cast",
+        "characters": [
+          "Vico"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BMjkwZTIzOWYtZDdhOS00NzYyLWFlOWQtNjZiMWJkZjVmNzUwXkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "9013262",
+        "imdb_id": "9013262",
+        "imdbId": "nm9013262",
+        "name": "Jefferson Baptista",
+        "url": "https://www.imdb.com/name/nm9013262",
+        "job": "Cast",
+        "characters": [
+          "Livro"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "3554943",
+        "imdb_id": "3554943",
+        "imdbId": "nm3554943",
+        "name": "Ismael Caneppele",
+        "url": "https://www.imdb.com/name/nm3554943",
+        "job": "Cast",
+        "characters": [
+          "Osmar",
+          "Gabriel Estevas"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BMTU0OTM3NjI1MV5BMl5BanBnXkFtZTgwNjUwMDMwMjE@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "11365302",
+        "imdb_id": "11365302",
+        "imdbId": "nm11365302",
+        "name": "Bruno Suzano",
+        "url": "https://www.imdb.com/name/nm11365302",
+        "job": "Cast",
+        "characters": [
+          "Beto"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "18296648",
+        "imdb_id": "18296648",
+        "imdbId": "nm18296648",
+        "name": "Daniel Xavier",
+        "url": "https://www.imdb.com/name/nm18296648",
+        "job": "Cast",
+        "characters": [
+          "Bacca"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "4495030",
+        "imdb_id": "4495030",
+        "imdbId": "nm4495030",
+        "name": "Alex Ozerov-Meyer",
+        "url": "https://www.imdb.com/name/nm4495030",
+        "job": "Cast",
+        "characters": [
+          "Ivan Gusev"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BNmMyMDI2ZDAtZjY0My00Yjk5LWEwOTAtMjQyMGUxNTFmNjFhXkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "0070115",
+        "imdb_id": "0070115",
+        "imdbId": "nm0070115",
+        "name": "Paul Ben-Victor",
+        "url": "https://www.imdb.com/name/nm0070115",
+        "job": "Cast",
+        "characters": [
+          "CIA Director Moncrief"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BYTBjY2JiODEtMjEwZC00NDEwLWJiZjYtYjJhMmMyNjUxZmU2XkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "3223373",
+        "imdb_id": "3223373",
+        "imdbId": "nm3223373",
+        "name": "Dmitri Kornakov",
+        "url": "https://www.imdb.com/name/nm3223373",
+        "job": "Cast",
+        "characters": [
+          "Osip"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BN2NkZjc3YjgtZDIxNS00OWI0LTkxMzktOWMxMDJkZDExOTY3XkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "12089255",
+        "imdb_id": "12089255",
+        "imdbId": "nm12089255",
+        "name": "Rei Black",
+        "url": "https://www.imdb.com/name/nm12089255",
+        "job": "Cast",
+        "characters": [
+          "Duda"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "0633389",
+        "imdb_id": "0633389",
+        "imdbId": "nm0633389",
+        "name": "David Will No",
+        "url": "https://www.imdb.com/name/nm0633389",
+        "job": "Cast",
+        "characters": [
+          "Davi"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BMmZiZGJkMGYtZDZjNS00ZjA3LTgwNjMtZDVlY2ExMWZjODdiXkEyXkFqcGc@._V1_CR131,2,1702,2553_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "5109591",
+        "imdb_id": "5109591",
+        "imdbId": "nm5109591",
+        "name": "Elzio Vieira",
+        "url": "https://www.imdb.com/name/nm5109591",
+        "job": "Cast",
+        "characters": [
+          "Tiago"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "3272435",
+        "imdb_id": "3272435",
+        "imdbId": "nm3272435",
+        "name": "Polly Marinho",
+        "url": "https://www.imdb.com/name/nm3272435",
+        "job": "Cast",
+        "characters": [
+          "Gabriella"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "16753653",
+        "imdb_id": "16753653",
+        "imdbId": "nm16753653",
+        "name": "Mikhael Sanchez",
+        "url": "https://www.imdb.com/name/nm16753653",
+        "job": "Cast",
+        "characters": [
+          "Felipe"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BMGE1YTZmNWYtNGExOC00N2FjLTg4ZmMtMmY5NzVlNjhhZWNkXkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "1575806",
+        "imdb_id": "1575806",
+        "imdbId": "nm1575806",
+        "name": "Brett Sheerin",
+        "url": "https://www.imdb.com/name/nm1575806",
+        "job": "Cast",
+        "characters": [
+          "Ant"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "8742257",
+        "imdb_id": "8742257",
+        "imdbId": "nm8742257",
+        "name": "Daniel Chagas",
+        "url": "https://www.imdb.com/name/nm8742257",
+        "job": "Cast",
+        "characters": [
+          "Gray Beard"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "1538583",
+        "imdb_id": "1538583",
+        "imdbId": "nm1538583",
+        "name": "Gilbert Chayrez-Chavarria",
+        "url": "https://www.imdb.com/name/nm1538583",
+        "job": "Cast",
+        "characters": [
+          "Santos"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "7741758",
+        "imdb_id": "7741758",
+        "imdbId": "nm7741758",
+        "name": "Savannah Van Der Keyl",
+        "url": "https://www.imdb.com/name/nm7741758",
+        "job": "Cast",
+        "characters": [
+          "Burns"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BN2JjNDhjMGEtYjNlZi00Yjk2LWIwYTItY2JmYjAyMzlkNjNlXkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "4994594",
+        "imdb_id": "4994594",
+        "imdbId": "nm4994594",
+        "name": "Arthur Monteiro",
+        "url": "https://www.imdb.com/name/nm4994594",
+        "job": "Cast",
+        "characters": [
+          "Mateus Estevas"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "1665062",
+        "imdb_id": "1665062",
+        "imdbId": "nm1665062",
+        "name": "Benny Bucio",
+        "url": "https://www.imdb.com/name/nm1665062",
+        "job": "Cast",
+        "characters": [
+          "Gus"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BYTBhZGYwNDAtN2QwZC00OTM5LWEzODctZmNjNTVjNjY1M2M3XkEyXkFqcGc@._V1_.jpg",
+        "attributes": "(as Bernardo Bucio)"
+      },
+      {
+        "id": "2990327",
+        "imdb_id": "2990327",
+        "imdbId": "nm2990327",
+        "name": "Ivonne Zurita",
+        "url": "https://www.imdb.com/name/nm2990327",
+        "job": "Cast",
+        "characters": [
+          "Luana Estevas"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "1669944",
+        "imdb_id": "1669944",
+        "imdbId": "nm1669944",
+        "name": "Jack Duarte",
+        "url": "https://www.imdb.com/name/nm1669944",
+        "job": "Cast",
+        "characters": [
+          "Dark Hoodie"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "10990788",
+        "imdb_id": "10990788",
+        "imdbId": "nm10990788",
+        "name": "Sebastián Ladrón de Guevara",
+        "url": "https://www.imdb.com/name/nm10990788",
+        "job": "Cast",
+        "characters": [
+          "Osmar's Driver"
+        ],
+        "picture_url": null,
+        "attributes": "(as Sebastián Ladrón)"
+      },
+      {
+        "id": "0134072",
+        "imdb_id": "0134072",
+        "imdbId": "nm0134072",
+        "name": "Bobby Cannavale",
+        "url": "https://www.imdb.com/name/nm0134072",
+        "job": "Cast",
+        "characters": [
+          "Paul Rayburn"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BMTU0NzM3MzQ4Ml5BMl5BanBnXkFtZTgwOTg2MjY4ODE@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "3839065",
+        "imdb_id": "3839065",
+        "imdbId": "nm3839065",
+        "name": "Elizabeth Leiner",
+        "url": "https://www.imdb.com/name/nm3839065",
+        "job": "Cast",
+        "characters": [
+          "Regina Rayburn"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BMzM1MmVhZGItNzY4Ni00M2E0LTk4MzItYTU5M2QwODNmMDk1XkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "14849665",
+        "imdb_id": "14849665",
+        "imdbId": "nm14849665",
+        "name": "Matías López",
+        "url": "https://www.imdb.com/name/nm14849665",
+        "job": "Cast",
+        "characters": [
+          "Robbie Rayburn"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "14863945",
+        "imdb_id": "14863945",
+        "imdbId": "nm14863945",
+        "name": "Asher Alexander",
+        "url": "https://www.imdb.com/name/nm14863945",
+        "job": "Cast",
+        "characters": [
+          "David Rayburn"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BNjM5MGFkZTktZTBiNC00ODA5LWI4YzMtZjFmM2ZhOTBmNzQxXkEyXkFqcGc@._V1_CR739,1,778,1167_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "14665927",
+        "imdb_id": "14665927",
+        "imdbId": "nm14665927",
+        "name": "Shai Morris",
+        "url": "https://www.imdb.com/name/nm14665927",
+        "job": "Cast",
+        "characters": [
+          "Liam"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "4685954",
+        "imdb_id": "4685954",
+        "imdbId": "nm4685954",
+        "name": "Mariano Foulquie",
+        "url": "https://www.imdb.com/name/nm4685954",
+        "job": "Cast",
+        "characters": [
+          "Driver"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "10570895",
+        "imdb_id": "10570895",
+        "imdbId": "nm10570895",
+        "name": "Martín Peralta",
+        "url": "https://www.imdb.com/name/nm10570895",
+        "job": "Cast",
+        "characters": [
+          "Tappen's Assistant"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BOGQ2ZDAyNjMtNTFkOC00MmEwLTkzZTgtYzlmYmZmZTM3YjYwXkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "11594031",
+        "imdb_id": "11594031",
+        "imdbId": "nm11594031",
+        "name": "Bianca de Souza",
+        "url": "https://www.imdb.com/name/nm11594031",
+        "job": "Cast",
+        "characters": [
+          "Beto's Girlfriend"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "2025778",
+        "imdb_id": "2025778",
+        "imdbId": "nm2025778",
+        "name": "Oliver Cantú Lozano",
+        "url": "https://www.imdb.com/name/nm2025778",
+        "job": "Cast",
+        "characters": [
+          "Bystander"
+        ],
+        "picture_url": null,
+        "attributes": "(as Oliver Cantú)"
+      },
+      {
+        "id": "8203800",
+        "imdb_id": "8203800",
+        "imdbId": "nm8203800",
+        "name": "Fernanda Teixeira",
+        "url": "https://www.imdb.com/name/nm8203800",
+        "job": "Cast",
+        "characters": [
+          "Receptionist 1"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "10917493",
+        "imdb_id": "10917493",
+        "imdbId": "nm10917493",
+        "name": "Mursi Haynes",
+        "url": "https://www.imdb.com/name/nm10917493",
+        "job": "Cast",
+        "characters": [
+          "Receptionist 2"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BZTZmMzM0MWItZDljMS00N2I4LTk3N2QtZjI1ZmZiZTk2MWY5XkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "10928907",
+        "imdb_id": "10928907",
+        "imdbId": "nm10928907",
+        "name": "David Reis",
+        "url": "https://www.imdb.com/name/nm10928907",
+        "job": "Cast",
+        "characters": [
+          "Ianzinho"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "9178364",
+        "imdb_id": "9178364",
+        "imdbId": "nm9178364",
+        "name": "Douglas Cantudo",
+        "url": "https://www.imdb.com/name/nm9178364",
+        "job": "Cast",
+        "characters": [
+          "Black SUV Convoy Driver"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "4171319",
+        "imdb_id": "4171319",
+        "imdbId": "nm4171319",
+        "name": "Guillermina Campuzano",
+        "url": "https://www.imdb.com/name/nm4171319",
+        "job": "Cast",
+        "characters": [
+          "Receptionist 3"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "0891913",
+        "imdb_id": "0891913",
+        "imdbId": "nm0891913",
+        "name": "Shaula Vega",
+        "url": "https://www.imdb.com/name/nm0891913",
+        "job": "Cast",
+        "characters": [
+          "News Anchor"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BMTY1MDEwMjUxOV5BMl5BanBnXkFtZTcwNjc4NzkyMQ@@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "5528483",
+        "imdb_id": "5528483",
+        "imdbId": "nm5528483",
+        "name": "Ulisses Sakurai",
+        "url": "https://www.imdb.com/name/nm5528483",
+        "job": "Cast",
+        "characters": [
+          "Park Man"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "12027926",
+        "imdb_id": "12027926",
+        "imdbId": "nm12027926",
+        "name": "Matthew Pierrelys",
+        "url": "https://www.imdb.com/name/nm12027926",
+        "job": "Cast",
+        "characters": [
+          "Receptionist 4"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      },
+      {
+        "id": "1923143",
+        "imdb_id": "1923143",
+        "imdbId": "nm1923143",
+        "name": "Calo Rodriguez",
+        "url": "https://www.imdb.com/name/nm1923143",
+        "job": "Cast",
+        "characters": [
+          "Shopkeeper"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BMzc3MzgzNWEtODEzZi00NzdmLWJiYzQtNjQ5Nzg4ZTQ4ZTc5XkEyXkFqcGc@._V1_.jpg",
+        "attributes": "(as Calo Rodríguez)"
+      },
+      {
+        "id": "11834425",
+        "imdb_id": "11834425",
+        "imdbId": "nm11834425",
+        "name": "Matías Francone",
+        "url": "https://www.imdb.com/name/nm11834425",
+        "job": "Cast",
+        "characters": [
+          "Tactical Team Leader"
+        ],
+        "picture_url": "https://m.media-amazon.com/images/M/MV5BNmNlNTM5MTUtZjI1ZS00MzIzLTgzOWEtZTgyMjI4NGEzZjZhXkEyXkFqcGc@._V1_.jpg",
+        "attributes": ""
+      },
+      {
+        "id": "7686363",
+        "imdb_id": "7686363",
+        "imdbId": "nm7686363",
+        "name": "Marc Dennis",
+        "url": "https://www.imdb.com/name/nm7686363",
+        "job": "Cast",
+        "characters": [
+          "Manager 2"
+        ],
+        "picture_url": null,
+        "attributes": ""
+      }
+    ],
+    "actor": [],
+    "actress": [],
+    "animation_department": [],
+    "art_department": [],
+    "art_director": [],
+    "assistant_director": [],
+    "camera_department": [],
+    "casting_department": [],
+    "casting_director": [],
+    "choreographer": [],
+    "cinematographer": [],
+    "composer": [],
+    "costume_department": [],
+    "costume_designer": [],
+    "costume_supervisor": [],
+    "director": [],
+    "editor": [],
+    "editorial_department": [],
+    "electrical_department": [],
+    "hair_stylist": [],
+    "intimacy_coordinator": [],
+    "location_management": [],
+    "make_up_artist": [],
+    "make_up_department": [],
+    "miscellaneous": [],
+    "music_department": [],
+    "music_supervisor": [],
+    "producer": [],
+    "production_department": [],
+    "production_designer": [],
+    "production_manager": [],
+    "property_master": [],
+    "script_department": [],
+    "script_supervisor": [],
+    "self": [],
+    "set_decorator": [],
+    "showrunner": [],
+    "sound_department": [],
+    "soundtrack": [],
+    "special_effects": [],
+    "stunt_coordinator": [],
+    "stunts": [],
+    "thanks": [],
+    "transportation_department": [],
+    "visual_effects": [],
+    "writer": [],
+    "stars": []
+  },
+  "company_credits": {
+    "production": [
+      {
+        "id": "0867178",
+        "imdb_id": "0867178",
+        "imdbId": "co0867178",
+        "name": "Chapter Eleven",
+        "url": "https://www.imdb.com/company/co0867178/",
+        "attributes": [],
+        "countries": null
+      },
+      {
+        "id": "0286257",
+        "imdb_id": "0286257",
+        "imdbId": "co0286257",
+        "name": "Chernin Entertainment",
+        "url": "https://www.imdb.com/company/co0286257/",
+        "attributes": [],
+        "countries": null
+      },
+      {
+        "id": "0007127",
+        "imdb_id": "0007127",
+        "imdbId": "co0007127",
+        "name": "New Regency Productions",
+        "url": "https://www.imdb.com/company/co0007127/",
+        "attributes": [],
+        "countries": null
+      },
+      {
+        "id": "0310184",
+        "imdb_id": "0310184",
+        "imdbId": "co0310184",
+        "name": "Redrum",
+        "url": "https://www.imdb.com/company/co0310184/",
+        "attributes": [],
+        "countries": null
+      }
+    ],
+    "sales": [],
+    "distribution": [
+      {
+        "id": "0144901",
+        "imdb_id": "0144901",
+        "imdbId": "co0144901",
+        "name": "Netflix",
+        "url": "https://www.imdb.com/company/co0144901/",
+        "attributes": [
+          "VOD",
+          "video"
+        ],
+        "countries": [
+          "World-wide"
+        ]
+      }
+    ],
+    "specialEffects": [
+      {
+        "id": "0318973",
+        "imdb_id": "0318973",
+        "imdbId": "co0318973",
+        "name": "RISE Visual Effects Studios",
+        "url": "https://www.imdb.com/company/co0318973/",
+        "attributes": [],
+        "countries": null
+      },
+      {
+        "id": "0721520",
+        "imdb_id": "0721520",
+        "imdbId": "co0721520",
+        "name": "SSVFX",
+        "url": "https://www.imdb.com/company/co0721520/",
+        "attributes": [
+          "visual effects"
+        ],
+        "countries": null
+      }
+    ],
+    "miscellaneous": [
+      {
+        "id": "0037574",
+        "imdb_id": "0037574",
+        "imdbId": "co0037574",
+        "name": "yU+Co.",
+        "url": "https://www.imdb.com/company/co0037574/",
+        "attributes": [
+          "titles"
+        ],
+        "countries": null
+      }
+    ]
+  },
+  "info_series": {
+    "display_years": [
+      "2026"
+    ],
+    "display_seasons": [
+      "1"
+    ],
+    "creators": [
+      {
+        "id": "3189831",
+        "imdb_id": "3189831",
+        "imdbId": "nm3189831",
+        "name": "Kyle Killen",
+        "url": "https://www.imdb.com/name/nm3189831",
+        "job": "Creator"
+      }
+    ]
+  }
+}
