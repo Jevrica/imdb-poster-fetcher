@@ -42,6 +42,17 @@ if st.button("Run"):
             try:
                 movie = get_movie(imdb_id)
 
+                if not movie.cover_url:
+                    errors.append({
+                        "global_tent_id": global_tent_id,
+                        "imdb_id": imdb_id,
+                        "error": "No poster found"
+                    })
+
+                    status.write(f"[{index}/{total_rows}] ({percent}%) NO POSTER: {imdb_id}")
+                    progress.progress(index / total_rows)
+                    continue
+
                 results.append({
                     "tent_id": "",
                     "global_tent_id": global_tent_id,
