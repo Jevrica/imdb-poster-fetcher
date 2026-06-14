@@ -4,6 +4,13 @@ from imdbinfo import get_movie
 
 st.title("IMDb Poster Fetcher")
 
+st.info("""
+**Notes:**
+- Global Tent IDs and IMDb IDs must have the same count.
+- The order matters.
+- The first Global Tent ID is matched with the first IMDb ID, the second with the second, and so on.
+""")
+
 global_tent_ids_text = st.text_area(
     "Global Tent IDs (separated by commas):",
     placeholder="123456,456123,456789"
