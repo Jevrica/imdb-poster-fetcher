@@ -43,10 +43,9 @@ if st.button("Run"):
                 movie = get_movie(imdb_id)
 
                 results.append({
+                    "tent_id": "",
                     "global_tent_id": global_tent_id,
-                    "imdb_id": imdb_id,
-                    "title": movie.title,
-                    "poster": movie.cover_url
+                    "url": movie.cover_url
                 })
 
                 status.write(f"[{index}/{total_rows}] ({percent}%) OK: {imdb_id}")
